@@ -2601,6 +2601,8 @@ to {top: -20px;}
   width: 150px;
   height: 150px;
 }
+.fa-envelope {left: -1px;
+font-size: 1rem;}
 
 .fa-facebook,
 .fa-link {
@@ -2608,8 +2610,8 @@ to {top: -20px;}
 }
 
 .fa-phone {
-  left: 16px;
-  top: 16px;
+  left: 11px;
+  top: 15px;
 }
 
 .fa-instagram,
@@ -2663,7 +2665,9 @@ to {top: 0px;}
     #285aeb 90%
   );
 }
-
+#email-icon{
+  background-color: #0084ff;
+}
 #facebook-icon {
   background: #0099ff;
 }
