@@ -2362,7 +2362,7 @@ fieldset {
 
   z-index: 2;
   left: 5%;
-  transform: translateX(-20px) translateY(-00px);
+  transform: translateX(-20px) translateY(45px);
   position:relative;
   animation-name:PHOTO;
   animation-duration: 1.5s;
@@ -2485,7 +2485,7 @@ to {top: -20px;}
   color: #857042;
  width: 100%;
  transform: translateX(9px)
- translateY(-50px);
+ translateY(-5px);
 }
 
 .user-details .user-name {
@@ -2836,7 +2836,7 @@ to {top: 0px;} }
     padding: 0.25rem 1.5rem;
     text-decoration: none;
     font-size: 1.5rem;
-    transform: translateY(-350px)translateX(-10px);
+    transform: translateY(-305px)translateX(-10px);
     position: relative;
     animation-name: example;
     animation-duration: 1.5s;
