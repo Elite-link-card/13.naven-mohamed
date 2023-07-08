@@ -2836,7 +2836,7 @@ to {top: 0px;} }
     padding: 0.25rem 1.5rem;
     text-decoration: none;
     font-size: 1.5rem;
-    transform: translateY(-420px)translateX(-10px);
+    transform: translateY(-350px)translateX(-10px);
     position: relative;
     animation-name: example;
     animation-duration: 1.5s;
