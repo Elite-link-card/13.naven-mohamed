@@ -2499,12 +2499,14 @@ to {top: -20px;}
 }
 
 .user-details .user-pronouns {
-  font-size: 1.125rem;
-  font-weight: 12000;
-  font-style: italic;
-  color: var(--neutral-700);
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3;
   display: inline;
+  color: #857042;
+  ;
 }
+
 
 .user-details .bio-name {
   font-size: 1.5rem;
