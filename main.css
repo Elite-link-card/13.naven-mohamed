@@ -1030,7 +1030,7 @@ html {
   max-height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: top;
   position: relative;
   border-radius: 12px;
   background: #ffffff00;
@@ -2362,7 +2362,7 @@ fieldset {
 
   z-index: 2;
   left: 5%;
-  transform: translateX(-20px) translateY(45px);
+  transform: translateX(-20px) translateY(-20px);
   position:relative;
   animation-name:PHOTO;
   animation-duration: 1.5s;
@@ -2828,7 +2828,7 @@ to {top: 0px;} }
 .logoo{
   color: #857042;
     min-height: 54px;
-    display: inherit;
+    display: flex;
     align-items: center;
     transition: background 0.2s;
     margin: 0;
@@ -2836,7 +2836,7 @@ to {top: 0px;} }
     padding: 0.25rem 1.5rem;
     text-decoration: none;
     font-size: 1.5rem;
-    transform: translateY(-305px)translateX(-10px);
+    transform: translateY(-400px)translateX(-10px);
     position: relative;
     animation-name: example;
     animation-duration: 1.5s;
